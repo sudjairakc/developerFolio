@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "ChaichanaS",
-  title: "Hello everyone, I'm James",
+  title: "Hey there! I'm Chaichana Sudjairak, but you can call me James.",
   subTitle: emoji(
     `A dedicated and passionate Full Stack Software Developer from Thailand, with ${
       Number(dayjs().format("YYYY")) - 2021
@@ -38,7 +38,7 @@ const socialMediaLinks = {
   github: "https://github.com/sudjairakc",
   linkedin: "https://www.linkedin.com/in/chaichana-sudjairak/",
   gmail: "sudjairak.c@gmail.com",
-  gitlab: "https://gitlab.com/chaichanas",
+  gitlab: "https://gitlab.com/sudjairakc",
   facebook: "https://www.facebook.com/chaichana.sudjairak",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
